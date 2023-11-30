@@ -1,0 +1,4 @@
+﻿  Empresa.c
+D:\IPCA\Empresa\Empresa\Empresa.c(25,12): warning C4013: 'strcmp' undefined; assuming extern returning int
+D:\IPCA\Empresa\Empresa\Empresa.c(31,5): warning C4013: 'qsort' undefined; assuming extern returning int
+  Empresa.vcxproj -> D:\IPCA\Empresa\x64\Debug\Empresa.exe
